@@ -1,2 +1,2 @@
 # ringbuffer.java
-a basic ringbuffer in java
+a basic ringbuffer in java as Eclipse Java Project
